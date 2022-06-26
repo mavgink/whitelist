@@ -289,3 +289,4 @@ robidus.nl
 lathermates.com
 gvb-amsterdam.atlassian.net
 1password.com
+ocsp2.apple.com
