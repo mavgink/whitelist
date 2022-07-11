@@ -285,7 +285,6 @@ diagnostics.meethue.com
 (\.|^)johnnys\.nl$
 protonmail.com
 robidus.nl
-lathermates.com
 gvb-amsterdam.atlassian.net
 1password.com
 ocsp2.apple.com
