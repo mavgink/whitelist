@@ -267,7 +267,6 @@ youtube-nocookie.com
 yt3.ggpht.com
 ea.com
 netflix.com
-pihole
 itunes.apple.com
 s.mzstatic.com
 news.iadsdk.apple.com
