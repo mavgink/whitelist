@@ -284,6 +284,7 @@ img.alibaba.com
 diagnostics.meethue.com
 (\.|^)johnnys\.nl$
 protonmail.com
+proton.me
 gvb-amsterdam.atlassian.net
 1password.com
 ocsp2.apple.com
