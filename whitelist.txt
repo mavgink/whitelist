@@ -282,7 +282,6 @@ ynuf.alipay.com
 cmap.alibaba.com
 img.alibaba.com
 diagnostics.meethue.com
-(\.|^)johnnys\.nl$
 protonmail.com
 proton.me
 gvb-amsterdam.atlassian.net
