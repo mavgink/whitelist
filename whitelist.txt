@@ -325,3 +325,11 @@ api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
 cds.s5x3j6q5.hwcdn.net
+zee.cws.conviva.com
+pings.conviva.com
+cws.conviva.com
+livepassdl.conviva.com
+appspot-preview.l.google.com
+vidtech.cbsinteractive.com
+continuum.dds.microsoft.com
+www.msftconnecttest.com
