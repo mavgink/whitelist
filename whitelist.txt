@@ -1,25 +1,25 @@
 .adsafeprotected.com
-.adsafeprotected.com # amazon app 6
-.amazon-adsystem.com # amazon app ads
-.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
-.anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
-.bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.bs.serving-sys.com # amazon app 5
-.bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.control.kochava.com # alexa 2
-.device-metrics-us-2.amazon.com # alexa 3
-.e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
-.fls-na.amazon.com # alexa
+.adsafeprotected.com
+.amazon-adsystem.com
+.anycast.pixel.adsafeprotected.com
+.anycast.static.adsafeprotected.com
+.bs.eyeblaster.akadns.net
+.bs.serving-sys.com
+.bsla.eyeblaster.akadns.net
+.control.kochava.com
+.device-metrics-us-2.amazon.com
+.e13136.g.akamaiedge.net
+.fls-na.amazon.com
 .github.com
 .githubusercontent.com 
 .gitlab.com
 .netgate.com
 .pfsense.org
-.pixel.adsafeprotected.com # amazon app 4
-.px.moatads.com # amazon app 2
-.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com
+.px.moatads.com
+.secure-gl.imrworldwide.com
 .sourceforge.net
-.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.wildcard.moatads.com.edgekey.net
 0.client-channel.google.com
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 1drv.com
@@ -101,10 +101,10 @@ control.kochava.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
-cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
-cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
-cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs196.wac.edgecastcdn.net
+cs2-wac-us.8315.ecdns.net
+cs2-wac.apr-8315.edgecastdns.net
+cs45.wac.edgecastcdn.net
 cse.google.com
 ctldl.windowsupdate.com
 cws.conviva.com
@@ -163,7 +163,7 @@ giphy-proxy-production.whispersystems.org
 giphy.com
 github.com
 github.io
-github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+github.map.fastly.net
 goo.gl
 google.com
 googleapis.com
@@ -238,7 +238,7 @@ ota-downloads.nvidia.com
 outlook.live.com
 outlook.office365.com
 ow.ly
-pbs.twimg.com # twitter images
+pbs.twimg.com
 pings.conviva.com
 pinterest.com
 placehold.it
@@ -270,7 +270,7 @@ s.youtube.com
 s.ytimg.com
 s1.wp.com
 s2.youtube.com
-s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+s3-1.amazonaws.com
 s3.amazonaws.com
 sa.symcb.com
 scontent-lhr3-1.xx.fbcdn.net
@@ -346,7 +346,7 @@ www.apple.com
 www.appleiphonecell.com
 www.bit.ly
 www.dataplicity.com
-www.dropbox-dns.com # CNAME for (dropbox.com)
+www.dropbox-dns.com
 www.dropbox.com
 www.google.com
 www.googleapis.com
@@ -354,7 +354,7 @@ www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
 www.ow.ly
-www.pbs.twimg.com # twitter images
+www.pbs.twimg.com
 www.plex.tv
 www.redditmedia.com
 www.redditstatic.com
@@ -371,7 +371,7 @@ xsts.auth.xboxlive.com
 ynuf.alipay.com
 youtu.be
 youtube-nocookie.com
-youtube-ui.l.google.com # CNAME for (youtube.com)
+youtube-ui.l.google.com
 youtube.com
 yt3.ggpht.com
 zee.cws.conviva.com
