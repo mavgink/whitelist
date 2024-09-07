@@ -1,5 +1,4 @@
 .adsafeprotected.com
-.adsafeprotected.com
 .amazon-adsystem.com
 .anycast.pixel.adsafeprotected.com
 .anycast.static.adsafeprotected.com
