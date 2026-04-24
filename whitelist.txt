@@ -238,11 +238,9 @@ proton.me
 protonmail.com
 proxy.plex.bz
 proxy.plex.tv
-proxy.plex.tv metrics.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
-pubsub.plex.tv status.plex.tv
 raw.githubusercontent.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit.map.fastly.net
