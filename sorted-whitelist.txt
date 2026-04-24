@@ -301,7 +301,6 @@ cs196.wac.edgecastcdn.net
 cs45.wac.edgecastcdn.net
 cs2-wac-us.8315.ecdns.net
 cs2-wac.apr-8315.edgecastdns.net
-imgix.net
 jsdelivr.net
 ssl.p.jwpcdn.com
 widget-cdn.rpxnow.com
