@@ -114,6 +114,8 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
+s.gateway.messenger.live.com
+ecn.dev.virtualearth.net
 
 # =====
 # APPLE
@@ -233,8 +235,10 @@ ode.plexapp.com
 plex.tv
 proxy.plex.bz
 proxy.plex.tv
+proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
+pubsub.plex.tv
 pubsub.plex.tv
 staging.plex.tv
 status.plex.tv
@@ -302,6 +306,9 @@ cs2-wac.apr-8315.edgecastdns.net
 imgix.net
 jsdelivr.net
 ssl.p.jwpcdn.com
+widget-cdn.rpxnow.com
+s.marketwatch.com
+alluremedia.com.au
 
 # =====================
 # SHOPPING / E-COMMERCE
@@ -333,79 +340,123 @@ www.adf.ly
 www.bit.ly
 www.ow.ly
 
-# =====================
-# OTHER SERVICES / MISC
-# =====================
+# ==============================
+# PASSWORD / SECURITY / IDENTITY
+# ==============================
 1password.com
-alluremedia.com.au
-api.epione.care
-api.ipify.org
-api.rlje.net
-app-api.ted.com
-apshaveco.com
-apt.sonarr.tv
-bufferapp.com
-control.kochava.com
-cws.conviva.com
-dataplicity.com
-diagnostics.meethue.com
-display.ugc.bazaarvoice.com
-drift.com
-driftt.com
-dynupdate.no-ip.com
-ea.com
-ec-ns.sascdn.com
-ecn.dev.virtualearth.net
-event.bblmw.com
-forums.sonarr.tv
-gfwsl.geforce.com
-giphy.com
-gravatar.com
-hls.ted.com
-imagesak.secureserver.net
-img.vidible.tv
-imgs.xkcd.com
-intercom.io
-jquery.com
-kali.download
-keystone.mwbsys.com
-lastfm-img2.akamaized.net
-livepassdl.conviva.com
-no-ip.com
-npr-news.streaming.adswizz.com
-om.cbsi.com
-ota-downloads.nvidia.com
-pings.conviva.com
-pinterest.com
-placehold.it
-placeholdit.imgix.net
-players.brightcove.net
 proton.me
 protonmail.com
-res.cloudinary.com
-s.gateway.messenger.live.com
-s.marketwatch.com
-s1.wp.com
 sa.symcb.com
-secure-gl.imrworldwide.com
-secure.avangate.com
-secure.brightcove.com
-secure.surveymonkey.com
+
+# =========================
+# SONARR / MEDIA AUTOMATION
+# =========================
+apt.sonarr.tv
+forums.sonarr.tv
 services.sonarr.tv
 skyhook.sonarr.tv
-stackoverflow.com
-tawk.to
-tedcdn.com
+
+# ==========================
+# MEDIA METADATA / DATABASES
+# ==========================
 themoviedb.com
 thetvdb.com
-tracking.epicgames.com
-traffic.libsyn.com
-vidtech.cbsinteractive.com
+
+# ==================================
+# STREAMING / VIDEO / MEDIA DELIVERY
+# ==================================
+app-api.ted.com
+hls.ted.com
+tedcdn.com
+img.vidible.tv
 videos.vidible.tv
-widget-cdn.rpxnow.com
+players.brightcove.net
+secure.brightcove.com
+vidtech.cbsinteractive.com
+om.cbsi.com
+traffic.libsyn.com
+ws.audioscrobbler.com
+
+# ================================
+# IMAGES / STATIC CONTENT / ASSETS
+# ================================
+imagesak.secureserver.net
+imgs.xkcd.com
+placehold.it
+placeholdit.imgix.net
+res.cloudinary.com
+s1.wp.com
+imgix.net
+lastfm-img2.akamaized.net
+
+# ==============================
+# COMMUNICATION / CHAT / SUPPORT
+# ==============================
+drift.com
+driftt.com
+intercom.io
+tawk.to
+
+# ==========================
+# ANALYTICS / TRACKING / ADS
+# ==========================
+control.kochava.com
+ec-ns.sascdn.com
+secure-gl.imrworldwide.com
+npr-news.streaming.adswizz.com
+tracking.epicgames.com
+pings.conviva.com
+cws.conviva.com
+livepassdl.conviva.com
+zee.cws.conviva.com
+display.ugc.bazaarvoice.com
+
+# ============================
+# SOCIAL / CONTENT / COMMUNITY
+# ============================
+pinterest.com
+giphy.com
+gravatar.com
+stackoverflow.com
 wikipedia.org
-witha.name
 wordpress.com
 wp.com
-ws.audioscrobbler.com
-zee.cws.conviva.com
+
+# =======================
+# DEV / LIBRARIES / TOOLS
+# =======================
+jquery.com
+kali.download
+
+# ===============================
+# NETWORK / DNS / DYNAMIC HOSTING
+# ===============================
+no-ip.com
+dynupdate.no-ip.com
+api.ipify.org
+
+# ================================
+# CLOUD / INFRA / GENERIC SERVICES
+# ================================
+dataplicity.com
+api.epione.care
+api.rlje.net
+event.bblmw.com
+keystone.mwbsys.com
+witha.name
+
+# ======================
+# GAMING / GPU / DRIVERS
+# ======================
+ea.com
+gfwsl.geforce.com
+ota-downloads.nvidia.com
+
+# =============================
+# CERTIFICATES / SECURITY INFRA
+# =============================
+secure.avangate.com
+
+# =========================
+# PLACEHOLDER / UNCLEAR USE
+# =========================
