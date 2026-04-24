@@ -45,6 +45,7 @@ s2.youtube.com
 www.youtube.com
 www.youtube-nocookie.com
 2.android.pool.ntp.org
+geo3.ggpht.com
 
 # ==========================
 # MICROSOFT / WINDOWS / XBOX
@@ -54,6 +55,7 @@ activity.windows.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 arc.msn.com
 c.s-microsoft.com
+g.live.com
 client-s.gateway.messenger.live.com
 client.wns.windows.com
 clientconfig.passport.net
@@ -62,6 +64,10 @@ ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dns.msftncsi.com
+dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+edge.api.brightcove.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 geo-prod.do.dsp.mp.microsoft.com
 i.s-microsoft.com
@@ -116,6 +122,8 @@ xkms.xboxlive.com
 xsts.auth.xboxlive.com
 s.gateway.messenger.live.com
 ecn.dev.virtualearth.net
+apps.skype.com
+ui.skype.com
 
 # =====
 # APPLE
@@ -148,6 +156,8 @@ s3.amazonaws.com
 s3-1.amazonaws.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
 whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+amzn.com
+amzn.to
 
 # =======
 # NETFLIX
@@ -168,6 +178,7 @@ spclient.wg.spotify.com
 # ======
 # SIGNAL
 # ======
+www.signal.org
 api.directory.signal.org
 cdn.signal.org
 chat.signal.org
@@ -218,6 +229,7 @@ upload.facebook.com
 # ====
 # PLEX
 # ====
+www.plex.tv
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 app.plex.tv
 cpms.spop10.ams.plex.bz
@@ -306,6 +318,7 @@ ssl.p.jwpcdn.com
 widget-cdn.rpxnow.com
 s.marketwatch.com
 alluremedia.com.au
+cds.s5x3j6q5.hwcdn.net
 
 # =====================
 # SHOPPING / E-COMMERCE
@@ -323,6 +336,7 @@ cms.souqcdn.com
 s.shopify.com
 v.shopify.com
 tracking.dpd.de
+ynuf.alipay.com
 
 # ==========
 # SHORTENERS
@@ -352,12 +366,14 @@ apt.sonarr.tv
 forums.sonarr.tv
 services.sonarr.tv
 skyhook.sonarr.tv
+download.sonarr.tv
 
 # ==========================
 # MEDIA METADATA / DATABASES
 # ==========================
 themoviedb.com
 thetvdb.com
+delivery.vidible.tv
 
 # ==================================
 # STREAMING / VIDEO / MEDIA DELIVERY
@@ -393,6 +409,7 @@ drift.com
 driftt.com
 intercom.io
 tawk.to
+secure.surveymonkey.com
 
 # ==========================
 # ANALYTICS / TRACKING / ADS
@@ -418,6 +435,8 @@ stackoverflow.com
 wikipedia.org
 wordpress.com
 wp.com
+bufferapp.com
+www.stackoverflow.com
 
 # =======================
 # DEV / LIBRARIES / TOOLS
@@ -431,6 +450,7 @@ kali.download
 no-ip.com
 dynupdate.no-ip.com
 api.ipify.org
+www.no-ip.com
 
 # ================================
 # CLOUD / INFRA / GENERIC SERVICES
@@ -457,3 +477,4 @@ secure.avangate.com
 # =========================
 # PLACEHOLDER / UNCLEAR USE
 # =========================
+www.dataplicity.com
