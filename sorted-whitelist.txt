@@ -235,10 +235,8 @@ ode.plexapp.com
 plex.tv
 proxy.plex.bz
 proxy.plex.tv
-proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
-pubsub.plex.tv
 pubsub.plex.tv
 staging.plex.tv
 status.plex.tv
