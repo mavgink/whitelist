@@ -44,12 +44,14 @@ s.ytimg.com
 s2.youtube.com
 www.youtube.com
 www.youtube-nocookie.com
+2.android.pool.ntp.org
 
 # ==========================
 # MICROSOFT / WINDOWS / XBOX
 # ==========================
 1drv.com
 activity.windows.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 arc.msn.com
 c.s-microsoft.com
 client-s.gateway.messenger.live.com
@@ -77,6 +79,7 @@ office.com
 office.net
 office365.com
 officeclient.microsoft.com
+pricelist.skype.com
 onedrive.live.com
 outlook.live.com
 outlook.office365.com
@@ -241,6 +244,7 @@ tvdb2.plex.tv
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
 vthemes.plexapp.com
+nine.plugins.plexapp.com
 
 # =======
 # DROPBOX
@@ -316,6 +320,7 @@ souqcdn.com
 cms.souqcdn.com
 s.shopify.com
 v.shopify.com
+tracking.dpd.de
 
 # ==========
 # SHORTENERS
@@ -334,7 +339,6 @@ www.ow.ly
 # OTHER SERVICES / MISC
 # =====================
 1password.com
-2.android.pool.ntp.org
 alluremedia.com.au
 api.epione.care
 api.ipify.org
@@ -359,7 +363,6 @@ forums.sonarr.tv
 gfwsl.geforce.com
 giphy.com
 gravatar.com
-gvb-amsterdam.atlassian.net
 hls.ted.com
 imagesak.secureserver.net
 img.vidible.tv
@@ -370,8 +373,6 @@ kali.download
 keystone.mwbsys.com
 lastfm-img2.akamaized.net
 livepassdl.conviva.com
-munksgaard.nl
-nine.plugins.plexapp.com
 no-ip.com
 npr-news.streaming.adswizz.com
 om.cbsi.com
@@ -381,7 +382,6 @@ pinterest.com
 placehold.it
 placeholdit.imgix.net
 players.brightcove.net
-pricelist.skype.com
 proton.me
 protonmail.com
 res.cloudinary.com
@@ -400,10 +400,8 @@ tawk.to
 tedcdn.com
 themoviedb.com
 thetvdb.com
-tracking.dpd.de
 tracking.epicgames.com
 traffic.libsyn.com
-tsfe.trafficshaping.dsp.mp.microsoft.com
 vidtech.cbsinteractive.com
 videos.vidible.tv
 widget-cdn.rpxnow.com
