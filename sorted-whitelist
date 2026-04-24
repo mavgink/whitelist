@@ -103,9 +103,9 @@ xflight.xboxlive.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 
-# =========================
+# =====
 # APPLE
-# =========================
+# =====
 apple.com
 www.apple.com
 appleid.apple.com
@@ -277,6 +277,8 @@ cms.souqcdn.com
 shopify.com
 s.shopify.com
 v.shopify.com
+tracking.dpd.de
+tracking.epicgames.com
 
 # ====================
 # CDN / INFRASTRUCTURE
@@ -326,5 +328,3 @@ wordpress.com
 wp.com
 witha.name
 munksgaard.nl
-tracking.dpd.de
-tracking.epicgames.com
