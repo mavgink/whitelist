@@ -33,7 +33,6 @@ appspot-preview.l.google.com
 apresolve.spotify.com
 apshaveco.com
 apt.sonarr.tv
-apt.sonarr.tv 
 arc.msn.com
 aspnetcdn.com
 attestation.xboxlive.com
@@ -47,7 +46,6 @@ brightcove.net
 bufferapp.com
 c.s-microsoft.com
 captive.apple.com
-captive.apple.com 
 cdn.cloudflare.net
 cdn.embedly.com
 cdn.fbsbx.com
@@ -109,7 +107,6 @@ dl.dropboxusercontent.com
 dl.google.com
 dns.msftncsi.com
 download.sonarr.tv
-download.sonarr.tv 
 drift.com
 driftt.com
 dropbox.com
@@ -159,7 +156,6 @@ gravatar.com
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
 gsp1.apple.com
-gsp1.apple.com 
 gstatic.com
 gvb-amsterdam.atlassian.net
 help.ui.xboxlive.com
@@ -274,17 +270,14 @@ secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
 services.sonarr.tv
-services.sonarr.tv 
 settings-win.data.microsoft.com
 sharepoint.com
 signal.org
 skyhook.sonarr.tv
-skyhook.sonarr.tv 
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 souqcdn.com
 spclient.wg.spotify.com
-spclient.wg.spotify.com 
 ssl.p.jwpcdn.com
 stackoverflow.com
 staging.plex.tv
@@ -340,7 +333,6 @@ wp.com
 ws.audioscrobbler.com
 www.adf.ly
 www.apple.com
-www.apple.com 
 www.appleiphonecell.com
 www.bit.ly
 www.dataplicity.com
