@@ -1,11 +1,11 @@
 # ==========================
 # GOOGLE / ANDROID / YOUTUBE
 # ==========================
-google.com
-googleapis.com
-googleapis.l.google.com
-gstatic.com
-fonts.gstatic.com
+0.client-channel.google.com
+android.clients.google.com
+appsbackup-pa.clients6.google.com
+appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -15,140 +15,175 @@ clients6.google.com
 clients7.google.com
 clients8.google.com
 clients9.google.com
-android.clients.google.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 cse.google.com
 dl.google.com
-firebase.googleapis.com
 firestore.googleapis.com
+fonts.gstatic.com
+google.com
+googleapis.com
+googleapis.l.google.com
+gstatic.com
 instantmessaging-pa.googleapis.com
-reminders-pa.googleapis.com
-appsbackup-pa.googleapis.com
-appsbackup-pa.clients6.google.com
-video-stats.l.google.com
 manifest.googlevideo.com
 redirector.googlevideo.com
+reminders-pa.googleapis.com
+video-stats.l.google.com
+www.google.com
+www.googleapis.com
 youtube.com
 youtube-nocookie.com
+youtube-ui.l.google.com
 youtu.be
 yt3.ggpht.com
 i.ytimg.com
 i1.ytimg.com
-s.ytimg.com
 s.youtube.com
+s.ytimg.com
 s2.youtube.com
-youtube-ui.l.google.com
 www.youtube.com
 www.youtube-nocookie.com
-www.googleapis.com
-www.google.com
 
 # ==========================
 # MICROSOFT / WINDOWS / XBOX
 # ==========================
-microsoft.com
-microsoftonline.com
-login.microsoftonline.com
-office.com
-office.net
-office365.com
-officeclient.microsoft.com
-products.office.com
-sharepoint.com
-nexusrules.officeapps.live.com
-live.com
-login.live.com
-outlook.live.com
-outlook.office365.com
-onedrive.live.com
-m.hotmail.com
+1drv.com
 activity.windows.com
 arc.msn.com
 c.s-microsoft.com
-i.s-microsoft.com
+client-s.gateway.messenger.live.com
 client.wns.windows.com
 clientconfig.passport.net
 continuum.dds.microsoft.com
 ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
+dns.msftncsi.com
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 geo-prod.do.dsp.mp.microsoft.com
-storeedgefd.dsx.mp.microsoft.com
+i.s-microsoft.com
+ipv6.msftncsi.com
+live.com
+login.live.com
+login.microsoftonline.com
+m.hotmail.com
+microsoftonline.com
+mobile.pipe.aria.microsoft.com
+msedge.api.cdp.microsoft.com
+msftncsi.com
+nexusrules.officeapps.live.com
+office.com
+office.net
+office365.com
+officeclient.microsoft.com
+onedrive.live.com
+outlook.live.com
+outlook.office365.com
+products.office.com
 settings-win.data.microsoft.com
+sharepoint.com
+sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net
+storeedgefd.dsx.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
-msedge.api.cdp.microsoft.com
-msftncsi.com
-dns.msftncsi.com
-ipv6.msftncsi.com
-www.msftncsi.com
-www.msftconnecttest.com
 win10.ipv6.microsoft.com
-xboxlive.com
-www.xboxlive.com
+www.msftconnecttest.com
+www.msftncsi.com
 attestation.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
 device.auth.xboxlive.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
-xsts.auth.xboxlive.com
-notify.xboxlive.com
+eds.xboxlive.com
 help.ui.xboxlive.com
 licensing.xboxlive.com
-xkms.xboxlive.com
-xflight.xboxlive.com
-xboxexperiencesprod.experimentation.xboxlive.com
+notify.xboxlive.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+www.xboxlive.com
 xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
 
 # =====
 # APPLE
 # =====
-apple.com
-www.apple.com
 appleid.apple.com
-itunes.apple.com
+ax.phobos.apple.com.edgesuite.net
 captive.apple.com
+cf.iadsdk.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+gsp-ssl.ls.apple.com
+gsp1.apple.com
+iadsdk.apple.com
+itunes.apple.com
+news.iadsdk.apple.com
 ocsp.apple.com
 ocsp2.apple.com
-gsp1.apple.com
-gsp-ssl.ls.apple.com
-gsp-ssl.ls-apple.com.akadns.net
-ax.phobos.apple.com.edgesuite.net
-cf.iadsdk.apple.com
-iadsdk.apple.com
-news.iadsdk.apple.com
 s.mzstatic.com
+www.apple.com
+www.appleiphonecell.com
 
 # =========================
 # AMAZON / AWS / CLOUDFRONT
 # =========================
 amazonaws.com
-cloudfront.net
+d2c8v52ll5s99u.cloudfront.net
+d2gatte9o95jao.cloudfront.net
+d83eunklitikj.cloudfront.net
+dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 s3.amazonaws.com
 s3-1.amazonaws.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
 whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 
+# =======
+# NETFLIX
+# =======
+api-global.netflix.com
+appboot.netflix.com
+ichnaea.netflix.com
+netflix.com
+secure.netflix.com
+
+# =======
+# SPOTIFY
+# =======
+api-tv.spotify.com
+apresolve.spotify.com
+spclient.wg.spotify.com
+
+# ======
+# SIGNAL
+# ======
+api.directory.signal.org
+cdn.signal.org
+chat.signal.org
+contentproxy.signal.org
+giphy-proxy-production.whispersystems.org
+signal.org
+storage.signal.org
+textsecure-service-whispersystems.org
+turn1.whispersystems.org
+ud-chat.signal.org
+updates2.signal.org
+
 # ===========================
 # FACEBOOK / META / INSTAGRAM
 # ===========================
-facebook.com
 api.facebook.com
 b-api.facebook.com
 b-graph.facebook.com
-graph.facebook.com
+bigzipfiles.facebook.com
 connect.facebook.com
 edge-mqtt.facebook.com
-mqtt.c10r.facebook.com
-portal.fb.com
-upload.facebook.com
-fb.me
-fbcdn.net
-cdn.fbsbx.com
-bigzipfiles.facebook.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
@@ -160,77 +195,59 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
+fb.me
+fbcdn-creative-a.akamaihd.net
+cdn.fbsbx.com
+creative.ak.fbcdn.net
+graph.facebook.com
+graph.instagram.com
+mqtt.c10r.facebook.com
+portal.fb.com
 scontent.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
-creative.ak.fbcdn.net
-fbcdn-creative-a.akamaihd.net
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
-graph.instagram.com
-
-# =======
-# NETFLIX
-# =======
-netflix.com
-api-global.netflix.com
-appboot.netflix.com
-ichnaea.netflix.com
-secure.netflix.com
-
-# =======
-# SPOTIFY
-# =======
-spotify.com
-api-tv.spotify.com
-apresolve.spotify.com
-spclient.wg.spotify.com
-
-# ======
-# SIGNAL
-# ======
-signal.org
-api.directory.signal.org
-cdn.signal.org
-chat.signal.org
-contentproxy.signal.org
-storage.signal.org
-updates2.signal.org
-ud-chat.signal.org
-textsecure-service-whispersystems.org
-turn1.whispersystems.org
-giphy-proxy-production.whispersystems.org
+upload.facebook.com
 
 # ====
 # PLEX
 # ====
-plex.tv
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 app.plex.tv
-dashboard.plex.tv
-metrics.plex.tv
-meta.plex.tv
-status.plex.tv
-pubsub.plex.tv
-proxy.plex.tv
-tvdb2.plex.tv
-o1.email.plex.tv
-o2.sg0.plex.tv
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
+dashboard.plex.tv
+meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
-proxy.plex.bz
-pubsub.plex.bz
-node.plexapp.com
+meta.plex.tv
+metrics.plex.tv
 my.plexapp.com
+node.plexapp.com
+o1.email.plex.tv
+o2.sg0.plex.tv
+ode.plexapp.com
+plex.tv
+proxy.plex.bz
+proxy.plex.tv
+proxy.plex.tv metrics.plex.tv
+proxy02.pop.ord.plex.bz
+pubsub.plex.bz
+pubsub.plex.tv
+pubsub.plex.tv status.plex.tv
+staging.plex.tv
+status.plex.tv
+tvdb2.plex.tv
 tvthemes.plexapp.com
+tvthemes.plexapp.com.cdn.cloudflare.net
 vthemes.plexapp.com
 
 # =======
 # DROPBOX
 # =======
-dropbox.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+dropbox.com
 ns1.dropbox.com
 ns2.dropbox.com
 www.dropbox.com
@@ -241,13 +258,12 @@ www.dropbox-dns.com
 # ======
 github.com
 github.io
-raw.githubusercontent.com
 github.map.fastly.net
+raw.githubusercontent.com
 
 # ======
 # REDDIT
 # ======
-reddit.com
 reddit.map.fastly.net
 styles.redditmedia.com
 www.redditmedia.com
@@ -256,29 +272,11 @@ www.redditstatic.com
 # ===========
 # TWITTER / X
 # ===========
-twitter.com
-twimg.com
 pbs.twimg.com
-www.pbs.twimg.com
 t.co
-
-# =====================
-# SHOPPING / E-COMMERCE
-# =====================
-aliexpress.com
-best.aliexpress.com
-login.aliexpress.com
-s.click.aliexpress.com
-amazon.com
-amzn.com
-amzn.to
-souqcdn.com
-cms.souqcdn.com
-shopify.com
-s.shopify.com
-v.shopify.com
-tracking.dpd.de
-tracking.epicgames.com
+twimg.com
+twitter.com
+www.pbs.twimg.com
 
 # ====================
 # CDN / INFRASTRUCTURE
@@ -286,45 +284,132 @@ tracking.epicgames.com
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
-cloudflare.com
+aspnetcdn.com
+brightcove.net
 cdn.cloudflare.net
 cdnjs.cloudflare.com
+cdn.embedly.com
+cdn.optimizely.com
+cdn2.optimizely.com
+cdn3.optimizely.com
+cdn.vidible.tv
+cs196.wac.edgecastcdn.net
+cs45.wac.edgecastcdn.net
+cs2-wac-us.8315.ecdns.net
+cs2-wac.apr-8315.edgecastdns.net
+imgix.net
 jsdelivr.net
-aspnetcdn.com
-edgecastcdn.net
-edgecastdns.net
-brightcove.net
+ssl.p.jwpcdn.com
+
+# =====================
+# SHOPPING / E-COMMERCE
+# =====================
+ae01.alicdn.com
+ae04.alicdn.com
+best.aliexpress.com
+cmap.alibaba.com
+g.alicdn.com
+img.alibaba.com
+login.aliexpress.com
+s.click.aliexpress.com
+souqcdn.com
+cms.souqcdn.com
+s.shopify.com
+v.shopify.com
 
 # ==========
 # SHORTENERS
 # ==========
+adf.ly
 bit.ly
-j.mp
 goo.gl
-tinyurl.com
+j.mp
 ow.ly
+tinyurl.com
+www.adf.ly
+www.bit.ly
+www.ow.ly
 
-# ==============
-# OTHER SERVICES
-# ==============
+# =====================
+# OTHER SERVICES / MISC
+# =====================
 1password.com
-1drv.com
+2.android.pool.ntp.org
+alluremedia.com.au
+api.epione.care
+api.ipify.org
+api.rlje.net
+app-api.ted.com
+apshaveco.com
+apt.sonarr.tv
+bufferapp.com
+control.kochava.com
+cws.conviva.com
 dataplicity.com
+diagnostics.meethue.com
+display.ugc.bazaarvoice.com
 drift.com
 driftt.com
+dynupdate.no-ip.com
 ea.com
+ec-ns.sascdn.com
+ecn.dev.virtualearth.net
+event.bblmw.com
+forums.sonarr.tv
+gfwsl.geforce.com
 giphy.com
-imgix.net
+gravatar.com
+gvb-amsterdam.atlassian.net
+hls.ted.com
+imagesak.secureserver.net
+img.vidible.tv
+imgs.xkcd.com
+intercom.io
 jquery.com
 kali.download
+keystone.mwbsys.com
+lastfm-img2.akamaized.net
+livepassdl.conviva.com
+munksgaard.nl
+nine.plugins.plexapp.com
 no-ip.com
-dynupdate.no-ip.com
+npr-news.streaming.adswizz.com
+om.cbsi.com
+ota-downloads.nvidia.com
+pings.conviva.com
 pinterest.com
+placehold.it
+placeholdit.imgix.net
+players.brightcove.net
+pricelist.skype.com
 proton.me
 protonmail.com
+res.cloudinary.com
+s.gateway.messenger.live.com
+s.marketwatch.com
+s1.wp.com
+sa.symcb.com
+secure-gl.imrworldwide.com
+secure.avangate.com
+secure.brightcove.com
+secure.surveymonkey.com
+services.sonarr.tv
+skyhook.sonarr.tv
 stackoverflow.com
+tawk.to
+tedcdn.com
+themoviedb.com
+thetvdb.com
+tracking.dpd.de
+tracking.epicgames.com
+traffic.libsyn.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+vidtech.cbsinteractive.com
+videos.vidible.tv
+widget-cdn.rpxnow.com
 wikipedia.org
+witha.name
 wordpress.com
 wp.com
-witha.name
-munksgaard.nl
+ws.audioscrobbler.com
+zee.cws.conviva.com
