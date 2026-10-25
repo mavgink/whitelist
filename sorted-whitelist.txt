@@ -1,49 +1,19 @@
 # ==========================
 # GOOGLE / ANDROID / YOUTUBE
 # ==========================
-0.client-channel.google.com
-android.clients.google.com
-appsbackup-pa.clients6.google.com
-appsbackup-pa.googleapis.com
-appspot-preview.l.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-clients7.google.com
-clients8.google.com
-clients9.google.com
 connectivitycheck.android.com
-connectivitycheck.gstatic.com
-cse.google.com
-dl.google.com
-firestore.googleapis.com
-fonts.gstatic.com
 google.com
 googleapis.com
-googleapis.l.google.com
 gstatic.com
-instantmessaging-pa.googleapis.com
 manifest.googlevideo.com
 redirector.googlevideo.com
-reminders-pa.googleapis.com
-video-stats.l.google.com
-www.google.com
-www.googleapis.com
 youtube.com
 youtube-nocookie.com
-youtube-ui.l.google.com
 youtu.be
 yt3.ggpht.com
 i.ytimg.com
 i1.ytimg.com
-s.youtube.com
 s.ytimg.com
-s2.youtube.com
-www.youtube.com
-www.youtube-nocookie.com
 2.android.pool.ntp.org
 geo3.ggpht.com
 
@@ -55,15 +25,12 @@ activity.windows.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 arc.msn.com
 c.s-microsoft.com
-g.live.com
-client-s.gateway.messenger.live.com
 client.wns.windows.com
 clientconfig.passport.net
 continuum.dds.microsoft.com
 ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
-dns.msftncsi.com
 dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
@@ -71,31 +38,22 @@ edge.api.brightcove.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 geo-prod.do.dsp.mp.microsoft.com
 i.s-microsoft.com
-ipv6.msftncsi.com
 live.com
-login.live.com
-login.microsoftonline.com
 m.hotmail.com
 microsoftonline.com
 mobile.pipe.aria.microsoft.com
 msedge.api.cdp.microsoft.com
 msftncsi.com
-nexusrules.officeapps.live.com
 office.com
 office.net
 office365.com
 officeclient.microsoft.com
 pricelist.skype.com
-onedrive.live.com
-outlook.live.com
-outlook.office365.com
-products.office.com
 settings-win.data.microsoft.com
 sharepoint.com
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 storeedgefd.dsx.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
@@ -103,7 +61,6 @@ wdcp.microsoft.com
 wdcpalt.microsoft.com
 win10.ipv6.microsoft.com
 www.msftconnecttest.com
-www.msftncsi.com
 attestation.xboxlive.com
 cert.mgt.xboxlive.com
 def-vef.xboxlive.com
@@ -120,8 +77,6 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
-s.gateway.messenger.live.com
-ecn.dev.virtualearth.net
 apps.skype.com
 ui.skype.com
 
@@ -131,13 +86,11 @@ ui.skype.com
 appleid.apple.com
 ax.phobos.apple.com.edgesuite.net
 captive.apple.com
-cf.iadsdk.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
 gsp1.apple.com
 iadsdk.apple.com
 itunes.apple.com
-news.iadsdk.apple.com
 ocsp.apple.com
 ocsp2.apple.com
 s.mzstatic.com
@@ -151,22 +104,13 @@ amazonaws.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d83eunklitikj.cloudfront.net
-dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
-s3.amazonaws.com
-s3-1.amazonaws.com
-reddit-uploaded-media.s3-accelerate.amazonaws.com
-whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 amzn.com
 amzn.to
 
 # =======
 # NETFLIX
 # =======
-api-global.netflix.com
-appboot.netflix.com
-ichnaea.netflix.com
 netflix.com
-secure.netflix.com
 
 # =======
 # SPOTIFY
@@ -178,18 +122,10 @@ spclient.wg.spotify.com
 # ======
 # SIGNAL
 # ======
-www.signal.org
-api.directory.signal.org
-cdn.signal.org
-chat.signal.org
-contentproxy.signal.org
 giphy-proxy-production.whispersystems.org
 signal.org
-storage.signal.org
 textsecure-service-whispersystems.org
 turn1.whispersystems.org
-ud-chat.signal.org
-updates2.signal.org
 
 # ===========================
 # FACEBOOK / META / INSTAGRAM
@@ -212,7 +148,6 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
 fb.me
-fbcdn-creative-a.akamaihd.net
 cdn.fbsbx.com
 creative.ak.fbcdn.net
 graph.facebook.com
@@ -229,44 +164,27 @@ upload.facebook.com
 # ====
 # PLEX
 # ====
-www.plex.tv
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-app.plex.tv
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-dashboard.plex.tv
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
-meta.plex.tv
-metrics.plex.tv
 my.plexapp.com
 node.plexapp.com
-o1.email.plex.tv
-o2.sg0.plex.tv
 ode.plexapp.com
 plex.tv
 proxy.plex.bz
-proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
-pubsub.plex.tv
-staging.plex.tv
-status.plex.tv
-tvdb2.plex.tv
 tvthemes.plexapp.com
-tvthemes.plexapp.com.cdn.cloudflare.net
 vthemes.plexapp.com
 nine.plugins.plexapp.com
 
 # =======
 # DROPBOX
 # =======
-dl.dropbox.com
 dl.dropboxusercontent.com
 dropbox.com
-ns1.dropbox.com
-ns2.dropbox.com
-www.dropbox.com
 www.dropbox-dns.com
 
 # ======
@@ -288,11 +206,9 @@ www.redditstatic.com
 # ===========
 # TWITTER / X
 # ===========
-pbs.twimg.com
 t.co
 twimg.com
 twitter.com
-www.pbs.twimg.com
 
 # ====================
 # CDN / INFRASTRUCTURE
@@ -332,7 +248,6 @@ img.alibaba.com
 login.aliexpress.com
 s.click.aliexpress.com
 souqcdn.com
-cms.souqcdn.com
 s.shopify.com
 v.shopify.com
 tracking.dpd.de
@@ -347,9 +262,6 @@ goo.gl
 j.mp
 ow.ly
 tinyurl.com
-www.adf.ly
-www.bit.ly
-www.ow.ly
 
 # ==============================
 # PASSWORD / SECURITY / IDENTITY
@@ -383,7 +295,6 @@ hls.ted.com
 tedcdn.com
 img.vidible.tv
 videos.vidible.tv
-players.brightcove.net
 secure.brightcove.com
 vidtech.cbsinteractive.com
 om.cbsi.com
@@ -396,11 +307,8 @@ ws.audioscrobbler.com
 imagesak.secureserver.net
 imgs.xkcd.com
 placehold.it
-placeholdit.imgix.net
 res.cloudinary.com
-s1.wp.com
 imgix.net
-lastfm-img2.akamaized.net
 
 # ==============================
 # COMMUNICATION / CHAT / SUPPORT
@@ -422,7 +330,6 @@ tracking.epicgames.com
 pings.conviva.com
 cws.conviva.com
 livepassdl.conviva.com
-zee.cws.conviva.com
 display.ugc.bazaarvoice.com
 
 # ============================
@@ -436,7 +343,6 @@ wikipedia.org
 wordpress.com
 wp.com
 bufferapp.com
-www.stackoverflow.com
 
 # =======================
 # DEV / LIBRARIES / TOOLS
@@ -448,9 +354,7 @@ kali.download
 # NETWORK / DNS / DYNAMIC HOSTING
 # ===============================
 no-ip.com
-dynupdate.no-ip.com
 api.ipify.org
-www.no-ip.com
 
 # ================================
 # CLOUD / INFRA / GENERIC SERVICES
@@ -477,4 +381,3 @@ secure.avangate.com
 # =========================
 # PLACEHOLDER / UNCLEAR USE
 # =========================
-www.dataplicity.com
