@@ -349,6 +349,7 @@ bufferapp.com
 # =======================
 jquery.com
 kali.download
+gvb-amsterdam.atlassian.net
 
 # ===============================
 # NETWORK / DNS / DYNAMIC HOSTING
@@ -373,6 +374,11 @@ ea.com
 gfwsl.geforce.com
 ota-downloads.nvidia.com
 
+# ================
+# SMART HOME / IOT
+# ================
+diagnostics.meethue.com
+
 # =============================
 # CERTIFICATES / SECURITY INFRA
 # =============================
@@ -381,3 +387,5 @@ secure.avangate.com
 # =========================
 # PLACEHOLDER / UNCLEAR USE
 # =========================
+apshaveco.com
+munksgaard.nl
