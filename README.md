@@ -5,15 +5,13 @@ It lists the domains that popular services (Google, Microsoft, Apple, Plex,
 streaming, gaming and so on) need in order to work, so they keep working when
 block lists are turned on. New domains get added as I find services that break.
 
-## Files
+## The list
 
-| File | What it is |
-| --- | --- |
-| [`sorted-whitelist.txt`](sorted-whitelist.txt) | **The main list.** Domains grouped by service under `# ===` section headers. Use this one. |
-| [`whitelist.txt`](whitelist.txt) | The older, flat list in plain alphabetical order. Kept for reference. |
+[`sorted-whitelist.txt`](sorted-whitelist.txt) is the list. Domains are grouped
+by service under `# ===` section headers.
 
-Both files use the plain domain-list format Technitium understands: one domain
-per line. Lines starting with `#` are comments.
+It uses the plain domain-list format Technitium understands: one domain per
+line. Lines starting with `#` are comments.
 
 ## Using it in Technitium
 
